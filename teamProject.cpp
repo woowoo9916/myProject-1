@@ -5,13 +5,13 @@ using namespace std;
 
 int main(){
 	
-	string name1 = "20122969 ÀÌµ¿È¯";
+	string name1 = "20122969 ì´ë™í™˜";
 	string name2 = "";
 	string name3 = "";
 	string name4 = "";
-	string name5 = "";
+	string name5 = "20123028 í—ˆì¬ì¤€";
 	
-	cout<<"ÀúÈñ 6Á¶ÀÇ ±¸¼º¿øÀº " << name1 <<", "<< name2 << ", "<< name3 << ", "<< name4 <<  ", " << name5 <<" ÀÌ·¸°Ô ÃÑ 5¸í ÀÔ´Ï´Ù";
+	cout<<"ì €í¬ 6ì¡°ì˜ êµ¬ì„±ì›ì€ " << name1 <<", "<< name2 << ", "<< name3 << ", "<< name4 <<  ", " << name5 <<" ì´ë ‡ê²Œ ì´ 5ëª… ì…ë‹ˆë‹¤";
 	
 	
 }
