@@ -1,4 +1,4 @@
-#include<iostream>
+﻿#include<iostream>
 #include<string>
 
 using namespace std;
@@ -6,7 +6,7 @@ using namespace std;
 int main(){
 	
 	string name1 = "20122969 이동환";
-	string name2 = "";
+	string name2 = "20101803 박다성";
 	string name3 = "";
 	string name4 = "";
 	string name5 = "20123028 허재준";
