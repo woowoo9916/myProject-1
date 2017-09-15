@@ -7,7 +7,7 @@ int main(){
 	
 	string name1 = "20122969 이동환";
 	string name2 = "20101803 박다성";
-	string name3 = "";
+	string name3 = "20122987 정우진";
 	string name4 = "20123025 정재원";
 	string name5 = "20123028 허재준";
 	
